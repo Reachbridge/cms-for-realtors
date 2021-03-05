@@ -1,0 +1,14 @@
+{
+    "name": "reachbridge/cms-for-realtors",
+    "description": "CMS Library for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JefteCaro",
+            "email": "carojefte@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
